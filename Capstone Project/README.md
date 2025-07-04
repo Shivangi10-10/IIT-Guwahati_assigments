@@ -10,7 +10,7 @@ I developed a **streaming-based ML pipeline** using only `numpy`, `pandas`, and 
 
 ---
 
-## ⚙️ Tech Stack  
+##  Tech Stack  
 
 | Category             | Tools Used                     |
 |----------------------|--------------------------------|
@@ -23,7 +23,7 @@ I developed a **streaming-based ML pipeline** using only `numpy`, `pandas`, and 
 
 ---
 
-## 🧠 Architecture Diagram  
+## Plot  
 ![bokeh_plot](https://github.com/user-attachments/assets/fed79854-b7d3-4e19-867d-ace0e3a0fe56)
 
 ---
@@ -76,7 +76,7 @@ I developed a **streaming-based ML pipeline** using only `numpy`, `pandas`, and 
 
 ---
 
-## 📁 Repository Structure  
+##  Repository Structure  
 
 ```
 
